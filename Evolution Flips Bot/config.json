@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "token": "ODIxNDU3MjM3MjA1NDUwODIy.YFD_qw.ONkjU6L6qaXaAHXFNUVF0uSFkJo",
+
+  "prefixes": [ "-" ],
+  "join_message": "",
+
+  "currently": "playing",
+  "playing_status": "DM me -help to get started!",
+  "status": "online",
+  "log_channel": "784234255844376576",
+  "db_connection": "server=localhost;user=root;database=inventory_manager;port=3306;password=password"
+}

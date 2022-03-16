@@ -1,0 +1,37 @@
+07:52:44 [Info] Discord: Discord.Net v2.3.1 (API v6)
+07:52:45 [Info] Gateway: Connecting
+07:52:46 [Info] Gateway: Connected
+07:52:46 [Info] Gateway: Ready
+07:55:49 [Info] Discord: Discord.Net v2.3.1 (API v6)
+07:55:50 [Info] Gateway: Connecting
+07:55:50 [Info] Gateway: Connected
+07:55:51 [Info] Gateway: Ready
+07:56:01 [Info] Discord: Discord.Net v2.3.1 (API v6)
+07:56:02 [Info] Gateway: Connecting
+07:56:02 [Info] Gateway: Connected
+07:56:03 [Info] Gateway: Ready
+07:56:47 [Info] Discord: Discord.Net v2.3.1 (API v6)
+07:56:50 [Info] Gateway: Connecting
+07:56:50 [Info] Gateway: Connected
+07:56:51 [Info] Gateway: Ready
+07:57:13 [Msg] Successful command 'buy' executed by user: 'ryxx'.
+07:57:53 [Info] Discord: Discord.Net v2.3.1 (API v6)
+07:57:54 [Info] Gateway: Connecting
+07:57:55 [Info] Gateway: Connected
+07:57:55 [Info] Gateway: Ready
+07:58:05 [Msg] Successful command 'buy' executed by user: 'ryxx'.
+07:58:08 [Msg] Successful command 'sell' executed by user: 'ryxx'.
+07:59:36 [Info] Discord: Discord.Net v2.3.1 (API v6)
+07:59:37 [Info] Gateway: Connecting
+07:59:37 [Info] Gateway: Connected
+07:59:38 [Info] Gateway: Ready
+07:59:47 [Msg] Successful command 'buy' executed by user: 'ryxx'.
+07:59:51 [Msg] Successful command 'buy' executed by user: 'ryxx'.
+08:00:42 [Info] Discord: Discord.Net v2.3.1 (API v6)
+08:00:42 [Info] Gateway: Connecting
+08:00:43 [Info] Gateway: Connected
+08:00:44 [Info] Gateway: Ready
+08:00:47 [Msg] Successful command 'buy' executed by user: 'ryxx'.
+08:00:50 [Msg] Successful command 'help' executed by user: 'ryxx'.
+08:00:52 [Msg] Successful command 'help' executed by user: 'ryxx'.
+08:00:56 [Msg] Successful command 'help' executed by user: 'ryxx'.

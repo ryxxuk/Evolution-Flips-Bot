@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolution Flips Bot", "Evolution Flips Bot\Evolution Flips Bot.csproj", "{DFEF3CB9-97E6-40E8-8DA1-B3E56881567F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEF3CB9-97E6-40E8-8DA1-B3E56881567F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEF3CB9-97E6-40E8-8DA1-B3E56881567F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEF3CB9-97E6-40E8-8DA1-B3E56881567F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEF3CB9-97E6-40E8-8DA1-B3E56881567F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BB1CC22-C0FB-4596-A9B2-355FC07AB7D9}
+	EndGlobalSection
+EndGlobal
